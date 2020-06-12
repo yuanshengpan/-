@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/yuanshengpan/pan.git"
   },
   "author": "pan",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/yuanshengpan/pan/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/yuanshengpan/pan#readme",
   "devDependencies": {
     "css-loader": "^3.2.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
